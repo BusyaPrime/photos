@@ -10,4 +10,6 @@ marketplace request - <img width="1920" height="1080" alt="Снимок экра
 
 profile  - <img width="1920" height="1080" alt="Снимок экрана (881)" src="https://github.com/user-attachments/assets/a44e34bb-ab02-46f9-8ea8-b5b56e58ace3" />
 
+vendor - <img width="1920" height="1080" alt="Снимок экрана (882)" src="https://github.com/user-attachments/assets/d1ea8958-52bb-43d3-8a8d-a8eadaf47070" />
 
+admin cabinet - <img width="1920" height="1080" alt="Снимок экрана (883)" src="https://github.com/user-attachments/assets/1279ae2e-f66d-4066-be78-545900c61c4e" />
