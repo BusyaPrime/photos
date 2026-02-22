@@ -31,6 +31,10 @@ AkFinance Инвестиции + AI ассистент - <img width="1920" heigh
 AkFinance Профиль - <img width="1920" height="1080" alt="Снимок экрана (894)" src="https://github.com/user-attachments/assets/3374d753-03ba-4c19-a906-d8001e7f5aac" />
 
 
+<img width="1920" height="1080" alt="Снимок экрана (980)" src="https://github.com/user-attachments/assets/096182d4-63f4-40d5-80b8-78fae2e34158" />
+
+
+
 
 
 
