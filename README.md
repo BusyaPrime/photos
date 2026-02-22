@@ -33,6 +33,18 @@ AkFinance Профиль - <img width="1920" height="1080" alt="Снимок э�
 
 <img width="1920" height="1080" alt="Снимок экрана (980)" src="https://github.com/user-attachments/assets/096182d4-63f4-40d5-80b8-78fae2e34158" />
 
+<img width="1920" height="1080" alt="Снимок экрана (981)" src="https://github.com/user-attachments/assets/b7dd111c-a657-487b-9ab3-0956b84a12cf" />
+<img width="1920" height="1080" alt="Снимок экрана (982)" src="https://github.com/user-attachments/assets/f6411d0a-da2c-422f-9728-5777be761ab3" />
+<img width="1920" height="1080" alt="Снимок экрана (983)" src="https://github.com/user-attachments/assets/2696babf-0841-4b09-8caf-6399626922de" />
+<img width="1920" height="1080" alt="Снимок экрана (984)" src="https://github.com/user-attachments/assets/e2964132-af70-40be-a79b-1fcbe227ae04" />
+<img width="1920" height="1080" alt="Снимок экрана (985)" src="https://github.com/user-attachments/assets/b423c845-3832-44cf-960e-92cb43ac2b4f" />
+<img width="1920" height="1080" alt="Снимок экрана (987)" src="https://github.com/user-attachments/assets/727ee884-ea17-483e-b91e-46444fb03b8f" />
+
+
+
+
+
+
 
 
 
